@@ -14,5 +14,5 @@ This repository contains hands-on laboratory work completed as part of the
 
 The Labs focus on basic forensics fundamentals like system partition and disk details, number system, conversion and data representation.
 
-# Repository Content
+
 
